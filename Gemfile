@@ -26,7 +26,7 @@ group :development, :test do
 	gem 'sqlite3' # Use sqlite3 as the database for Active Record
 end
 
-group :prduction do
+group :probduction do
 	gem "pg"
 	gem "rails_12factor"
 end
